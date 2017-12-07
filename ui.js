@@ -5,7 +5,7 @@ function thead(isShoppingCart) {
 	$thead.append(td("名称", "name"));
 	$thead.append(td("类别", "category"));
 	$thead.append(td("编号", "th_number"));
-	$thead.append(td("心级", ""));
+	$thead.append(td("星级", ""));
 	$thead.append(td("简约", ""));
 	$thead.append(td("华丽", ""));
 	$thead.append(td("可爱", ""));
