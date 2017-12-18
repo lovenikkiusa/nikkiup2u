@@ -870,7 +870,7 @@ function addBonusInfo(base, weight, tag) {
   "19-支3": [addBonusInfo('A', 0.5, "Swordsman(侠客联盟)"), addBonusInfo('A', 0.5, "European(欧式古典)")],
   '精灵的月下舞会3': [addBonusInfo('S', 1, "European(欧式古典)")],
   '死神舞会1-神秘先知': [addBonusInfo('SS', 1, "Pet(小动物)")],
-  '死神舞会2-舞会邀请': [addBonusInfo('SS', 2, "Dancer(舞者)"), addBonusInfo('SS', 1, "Hindu(印度服饰)")],
+  '死神舞会2-舞会邀请': [addBonusInfo('SS', 1, "Dancer(舞者)"), addBonusInfo('SS', 1, "Hindu(印度服饰)")],
   'Intern Translator(清秀佳人)': [addBonusInfo('A', 1, "Modern China(中式现代)")],
   'Cloud Lady(绝色无双)': [addBonusInfo('A', 1, "Modern China(中式现代)")],
   '保育员面试': [addBonusInfo('S', 1, "Pet(小动物)")],
