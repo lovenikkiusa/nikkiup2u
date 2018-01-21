@@ -1,6 +1,7 @@
 body{
 	margin: 1em;
-	font-family: "Helvetica Neue", Helvetica, Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif;
+	font-family: "Helvetica Neue", Helvetica, Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif;	
+	
 }
 hr{
 	clear: both;
@@ -17,6 +18,7 @@ input[type="checkbox"]{
 }
 .checkbox{	
    display: inline-block;
+   
 }
 .table{
 	margin-bottom: 0;
@@ -32,12 +34,14 @@ input[type="checkbox"]{
 fieldset {
     padding: .35em .625em .75em;
     border: 1px solid silver;
+	border-color: #ffa4cd;
 }
 legend {
 	border: 0;
     width: auto;
     margin-bottom:0;
     font-size: 14px;
+	border-color: #ffa4cd;
 }
 /**********duoshuo start**************/
 #ds-thread #ds-reset .ds-post-self {
@@ -50,6 +54,7 @@ legend {
 .fliter_form_div_left{
 	float: left;
 	margin-right: 10px;
+	border-color: #ffa4cd;
 }
 @media ( max-width : 1020px){
 	.fliter_form_div_left{
@@ -70,17 +75,21 @@ legend {
 	margin: 5px 0;
 	overflow: hidden;
 	display: flex;
+	border-color: #ffa4cd;
 }
 .weightContainer * {
 	float:left;
 	border-radius: 0;
 	line-height: 1.2;
+	border-color: #ffa4cd;
 }
 .weightContainer > :first-child {
 	border-radius: 4px 0 0 4px;
+	border-color: #ffa4cd;
 }
 .weightContainer input:last-of-type {
 	border-radius: 0 4px 4px 0;
+	border-color: #ffa4cd;
 }
 .weightContainer label.active{
 	font-weight: bold;
@@ -89,7 +98,7 @@ legend {
 	width: 7em;
 	padding-left: 3px;
 	border: 1px solid transparent;
-	border-color: #ccc;
+	border-color: #ffa4cd;
 }
 .weightContainer input#tag1weight, .weightContainer input#tag2weight{
 	width: 3em;	
@@ -97,10 +106,10 @@ legend {
 .weightContainer select{
 	max-width: 65px;
 	border: 1px solid transparent;
-	border-color: #ccc;
+	border-color: #ffa4cd;
 }
 .weightContainer .highscore-link{
-	color: grey;
+	color: #e2bcff;
 	font-style: italic;
 	font-weight: bold;
 	cursor: pointer;
@@ -138,7 +147,7 @@ legend {
 	font-weight:bold;
 }	
 .not_f{
-	color: green;
+	color: #ffc9db;
 	font-weight:bold;
 }	
 .gongzhuSkill{
@@ -146,15 +155,15 @@ legend {
 	font-weight:bold;
 }	
 .normalSkill{
-	color: grey;
+	color: #f9c9ff;
 	font-weight:bold;
 }	
 .hintInfo{
-	color: teal;
+	color: #bd70e0;
 	font-weight:bold;
 }
 span.badge{
-	background: SlateGray;
+	background: #f33f9c;
 }
 .gotop{
 	font-family: 'Glyphicons Halflings';
@@ -184,15 +193,23 @@ div.top{
 	float: left;
 	padding: 1em;
 	width: 100%;
+
 }
 div.facet {
+}
+div.tit{
+	font-size:24px;
+	font-style:微软雅黑;
+	font-family: bold;
+	background-color:#ffeef7;
+	text-align:center;
 }
 div.title{		
   max-width: 800px;		
 }
 div.fliter {
 	width:50%;
-	float: left;	
+	float: left;
 }
 div.announcement {
 	width:45%;
@@ -201,6 +218,7 @@ div.announcement {
 	padding: 5px;
 	max-height: 280px;
 	overflow: auto;
+	border-color: #ffa4cd;
 }
 div.announcement hr{
 	margin-top: 8px;
@@ -210,6 +228,6 @@ div#showmore {
 	text-align: center;
 	padding: 0.6em;
 	border-bottom: 1px solid #f3f0f6;
-	color: #0984ff;
+	color: #a200ff;
 	cursor: pointer;
 }
