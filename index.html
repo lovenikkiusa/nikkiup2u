@@ -86,16 +86,18 @@
 			<!-- announcement -->	
 				
 			<div class="fliter">
-				距离评选搭配赛结束还有<span id="showTime">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+			    &nbsp;&nbsp;&nbsp;&nbsp;
+				距离评选搭配赛结束还有<span id="showTime">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></br>
 				&nbsp;&nbsp;|&nbsp;&nbsp;
 				<a href="biguse.html" target="_blank" style="color:#8800c7">梦幻大使对比工具</a>
 				&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="introduce.html" target="_blank"style="color:#8800c7">配装器使用介绍(临时版, 图多慎点)</a>
+				<a href="introduce.html" target="_blank"style="color:#8800c7">配装器使用介绍</a>
 				&nbsp;&nbsp;|&nbsp;&nbsp;
 				<a href="data/FAQ.html" target="_blank"style="color:#8800c7">常见问题FAQ</a>
 				&nbsp;&nbsp;|&nbsp;&nbsp;
 				<a href="wardrobechk.html" target="_blank"style="color:#8800c7">游戏衣柜对比</a>
-				<button style="display:none" class="btn btn-sm btn-default" id="sharewardrobe">分享衣柜</button>&nbsp;&nbsp;|&nbsp;&nbsp;
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+				<button style="display:none" class="btn btn-sm btn-default" id="sharewardrobe">分享衣柜</button>&nbsp;&nbsp;&nbsp;&nbsp;
 				<button style="display:none" class="btn btn-sm btn-default" id="aaa" onclick="getWardrobe()">同步分享的衣柜</button>
 				<br/>
 				<div id='filtersTop'>
@@ -180,12 +182,7 @@
 									<input class="btn-sm" type="text" id="tag2weight" name="tag2weight" value="1" onChange="changeFilter()" />
 								</div>
 							</div><!-- facet -->
-							<div class="fliter_option clear">
-								<div class="checkbox"><label><input type="checkbox" class="fliter" value="own" checked /> 衣服总数<span id='inventoryCount'/></label></div>
-								<div class="checkbox"><label><input type="checkbox" class="fliter" value="missing" checked /> 没有</label></div>
-								<div class="checkbox"><label><input type="checkbox" id="searchResultCheck" onclick="toggleSearchResult()" checked /> 搜索</label></div>
-								<a href="#"  target="_blank" style="color:#8800c7"class = "showmore" style="display:inline-block;cursor:pointer">↓显示全部衣服↓</a>
-							</div><!-- fliter_option -->
+							
 						</div>
 						<div class="fliter_form_div_left">
 							<fieldset>
@@ -198,7 +195,7 @@
 							</fieldset>
 							<fieldset>
 								<legend>筛选(先点击显示全部衣服)</legend>
-									<button  type="button" class="btn btn-xs btn-info front_filter_option" >全部</button>
+									<button  type="button" class="btn btn-xs btn-info front_filter_option pink" >全部</button>
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >尚缺材料</button>
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >暂不缺材料</button>
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >少女级</button>
@@ -218,10 +215,11 @@
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >5星</button>
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >套装部件</button>
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >新品</button>
-									<button  type="button" class="btn btn-xs btn-success" id="add_all">添加所有显示的衣服到衣柜</button>
+									<button  type="button" class="btn btn-xs btn-success purple" id="add_all">添加所有显示的衣服到衣柜</button>
 							</fieldset>
 						 </div>
 					</form>
+					
 				</div><!-- fliter_form_div -->
 			</div><!-- fliter -->
 		</div><!-- top -->

@@ -124,8 +124,16 @@ legend {
 }
 
 .fliter_option{
+	color: #ff528b;
 }
-
+.pink{
+	background-color:#ff91e1;
+	border-color:#ff91e1;
+}
+.purple{
+	background-color:#a361c8;
+	border-color:#a361c8;	
+}
 /************************/
 #category_container div {
 	display:none;
@@ -182,7 +190,9 @@ red{
 	font-weight:bold;		
 }
 #advanced_options_span, #front_filter_span{
+	color: #ffa4cd;
 	display: none;
+
 }
 .ds-powered-by, .ds-dialog-footer{
 	display: none;
@@ -201,7 +211,7 @@ div.tit{
 	font-size:24px;
 	font-style:微软雅黑;
 	font-family: bold;
-	background-color:#ffeef7;
+	background-color:#ffa4bc;
 	text-align:center;
 }
 div.title{		
@@ -216,7 +226,7 @@ div.announcement {
 	float: right;
 	border: 1px solid lightgrey;
 	padding: 5px;
-	max-height: 280px;
+	max-height: 300px;
 	overflow: auto;
 	border-color: #ffa4cd;
 }
