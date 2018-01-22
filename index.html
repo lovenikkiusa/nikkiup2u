@@ -85,19 +85,17 @@
 			
 			<!-- announcement -->	
 				
-			<div class="fliter">
-			    &nbsp;&nbsp;&nbsp;&nbsp;
+					<div class="fliter">
 				距离评选搭配赛结束还有<span id="showTime">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></br>
 				&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="biguse.html" target="_blank" style="color:#8800c7">梦幻大使对比工具</a>
+				<a href="biguse.html" style="color:#8800c7" target="_blank">梦幻大使对比工具</a>
 				&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="introduce.html" target="_blank"style="color:#8800c7">配装器使用介绍</a>
+				<a href="introduce.html" style="color:#8800c7" target="_blank">配装器使用介绍</a>
 				&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="data/FAQ.html" target="_blank"style="color:#8800c7">常见问题FAQ</a>
+				<a href="data/FAQ.html" style="color:#8800c7" target="_blank">常见问题FAQ</a>
 				&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="wardrobechk.html" target="_blank"style="color:#8800c7">游戏衣柜对比</a>
-				&nbsp;&nbsp;|&nbsp;&nbsp;
-				<button style="display:none" class="btn btn-sm btn-default" id="sharewardrobe">分享衣柜</button>
+				<a href="wardrobechk.html" style="color:#8800c7" target="_blank">游戏衣柜对比</a>
+				<button style="display:none" class="btn btn-sm btn-default" id="sharewardrobe">分享衣柜</button>&nbsp;&nbsp;|&nbsp;&nbsp;
 				<button style="display:none" class="btn btn-sm btn-default" id="aaa" onclick="getWardrobe()">同步分享的衣柜</button>
 				<br/>
 				<div id='filtersTop'>
@@ -181,8 +179,13 @@
 									</select>
 									<input class="btn-sm" type="text" id="tag2weight" name="tag2weight" value="1" onChange="changeFilter()" />
 								</div>
-							</div><!-- facet -->
-							
+								</div><!-- facet -->
+                                <div class="fliter_option clear">
+								<div class="checkbox"><label><input type="checkbox" class="fliter" value="own" checked /> 拥有<span id='inventoryCount'/></label></div>
+								<div class="checkbox"><label><input type="checkbox" class="fliter" value="missing" checked /> 没有</label></div>
+								<div class="checkbox"><label><input type="checkbox" id="searchResultCheck" onclick="toggleSearchResult()" checked /> 搜索</label></div>
+								<a href="#" class = "showmore" style="color:#8800c7" style="display:inline-block;cursor:pointer">↓显示全部衣服↓</a>
+							</div><!-- fliter_option -->
 						</div>
 						<div class="fliter_form_div_left">
 							<fieldset>
@@ -217,9 +220,8 @@
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >新品</button>
 									<button  type="button" class="btn btn-xs btn-success purple" id="add_all">添加所有显示的衣服到衣柜</button>
 							</fieldset>
-						 </div>
+						</div>
 					</form>
-					
 				</div><!-- fliter_form_div -->
 			</div><!-- fliter -->
 		</div><!-- top -->
@@ -239,7 +241,7 @@
 		<div class = "showmore" id= "showmore" isshowmore="1">↓显示全部衣服↓</div>
 		<div id = "end"></div>
 		<hr>
-		导入批量衣服，请先选择要导入的类别，然后在文本框内输入编号，用空格、逗号或者换行隔开。不知道编号在哪儿的请点<a href="http://tieba.baidu.com/p/3808711082"  target="_blank" style="color:#8800c7">这里</a>
+		导入批量衣服，请先选择要导入的类别，然后在文本框内输入编号，用空格、逗号或者换行隔开。不知道编号在哪儿的请点<a href="http://tieba.baidu.com/p/3808711082" style="color:#8800c7" target="_blank" >这里</a>
 		<div id = "import">
 		  <select id="importCate" onChange="clearImport()" ></select><br/>
 		  <textarea id="importData" rows=5 style="width:60%" ></textarea>
