@@ -45,8 +45,8 @@
 			衣柜、设计图更新、关卡信息更新：盐盐、沉琳、喵酱、喵咚咚、蜗牛<br/>
 			特供衣服属性数据提供：美服群里的各位大佬们<br/>
 			欢迎加入LoveNikki&nbsp;暖暖秘闻茶会(668741585)<br/>
-			友情链接：小伙伴自行维护的<a href="http://seal100x.github.io/nikkiup2u3/" target="_blank" style="color:#8800c7">国服版</a>
-			                           <a href="http://nikkitw.github.io/nikkitw" target="_blank" style="color:#8800c7">台服版</a>
+			友情链接：小伙伴自行维护的<a href="http://seal.coding.me/qjnn/" target="_blank" style="color:#8800c7">国服版</a>
+			                           <a href="https://nikkitw.github.io/nikkitw/" target="_blank" style="color:#8800c7">台服版</a>
 			                           <a href="http://nikkijp.github.io/nikkijpch" target="_blank" style="color:#8800c7">日服简中版</a>
 									   <a href="http://nikkijap.github.io/nikkijp" target="_blank" style="color:#8800c7">日服繁中版</a>
 									   <a href="https://nikkikr.github.io/nikkikr/" target="_blank" style="color:#8800c7">韩服版</a>
@@ -70,7 +70,7 @@
 					
 					最新公告<br/>
 					1，此搭配器仅供美服服装，供美服暖暖玩家使用。<br/>
-					2，若发现有衣服名称错误、遗漏或无此衣服，欢迎<a href="https://weibo.com/lovenikkiusa" target="_blank" style="color:#8800c7">微博反馈。</a><br/>
+					2，若发现有衣服名称错误、遗漏或无此衣服，欢迎<a href="https://weibo.com/lovenikkiusa" target="_blank" style="color:#8800c7">微博反馈</a>。<br/>
 					3，衣柜请务必备份，避免出现问题无法使用。<br/>
 					<hr/>
 					
@@ -102,7 +102,7 @@
 					<div class="btn-group">
 						<select id="theme-fliter" onChange="reDrawTheme()" class="btn btn-default"></select>
 						<select id="theme" onChange="changeTheme()" class="btn btn-default"></select>
-						<button id="onekey" class="btn btn-default">一键攻略</button>
+						<button id="onekey" class="btn btn-default pink2">一键攻略</button>
 					</div>
 					<div id="tagInfo"></div>
 					<div id="skillInfo"></div>
@@ -181,8 +181,8 @@
 								</div>
 								</div><!-- facet -->
                                 <div class="fliter_option clear">
-								<div class="checkbox"><label><input type="checkbox" class="fliter" value="own" checked /> 拥有<span id='inventoryCount'/></label></div>
-								<div class="checkbox"><label><input type="checkbox" class="fliter" value="missing" checked /> 没有</label></div>
+								<div class="checkbox"><label><input type="checkbox" class="fliter" value="own" checked /> 衣服总数<span id='inventoryCount'/></label></div>
+								<div class="checkbox"><label><input type="checkbox" class="fliter" value="missing" checked /> 显示衣柜</label></div>
 								<div class="checkbox"><label><input type="checkbox" id="searchResultCheck" onclick="toggleSearchResult()" checked /> 搜索</label></div>
 								<a href="#" class = "showmore" style="color:#8800c7" style="display:inline-block;cursor:pointer">↓显示全部衣服↓</a>
 							</div><!-- fliter_option -->
@@ -198,7 +198,7 @@
 							</fieldset>
 							<fieldset>
 								<legend>筛选(先点击显示全部衣服)</legend>
-									<button  type="button" class="btn btn-xs btn-info front_filter_option pink" >全部</button>
+									<button  type="button" class="btn btn-xs btn-info front_filter_option purple" >全部</button>
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >尚缺材料</button>
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >暂不缺材料</button>
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >少女级</button>
@@ -218,7 +218,7 @@
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >5星</button>
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >套装部件</button>
 									<button  type="button" class="btn btn-xs btn-default front_filter_option" >新品</button>
-									<button  type="button" class="btn btn-xs btn-success purple" id="add_all">添加所有显示的衣服到衣柜</button>
+									<button  type="button" class="btn btn-xs btn-success pink" id="add_all">添加所有显示的衣服到衣柜</button>
 							</fieldset>
 						</div>
 					</form>
@@ -245,7 +245,7 @@
 		<div id = "import">
 		  <select id="importCate" onChange="clearImport()" ></select><br/>
 		  <textarea id="importData" rows=5 style="width:60%" ></textarea>
-		  <button onClick="doImport()">导入</button>
+		  <button class = "pink3" onClick="doImport()">导入</button>
 		</div>
 		<hr>
 		<p>我拥有的服装 （复制衣橱文本框内容以备份衣橱）</p>
@@ -253,7 +253,7 @@
 		<p style="width:60%; display:none">衣柜数量记录 （复制衣橱文本框内容以备份衣橱）</p>
 		<textarea id="myClothesNum" rows=10 style="width:60%; display:none"></textarea>
 		<br/>
-		<button onClick="loadCustomInventory()">恢复备份</button>
+		<button class = "pink3" onClick="loadCustomInventory()">恢复备份</button>
 		<br/>
 		<hr>
 		

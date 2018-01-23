@@ -4,6 +4,7 @@ body{
 }
 input[type=checkbox], input[type=radio] {
     margin: 4px 0 0;
+	color:#f5c0fe;
 }
 
 /************************/
@@ -40,7 +41,7 @@ div.fliter_option .checkbox{
 .nav-tabs.nav-justified>li{
 	float:left;
 	width: auto;
-	display: block;
+	display: block;  	
 }
 .nav-tabs.nav-justified>li a{
 	padding: 0
@@ -51,7 +52,6 @@ div.fliter_option .checkbox{
 .nav-tabs.nav-justified>li.active .badge{
 	display: inline-block;
 	background-color: #fff;
-	color: #333;
 	padding: 0;
 	padding-right: 0.3em
 }

@@ -1,6 +1,6 @@
 body{
 	margin: 1em;
-	font-family: "Helvetica Neue", Helvetica, Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif;	
+	font-family: "Helvetica Neue", Helvetica, Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif,微软雅黑;	
 	
 }
 hr{
@@ -63,6 +63,7 @@ legend {
 }
 #filtersTop select{
 	height:34px;
+	border-color:#ffa4cd;
 }
 
 #theme:hover, #theme:active, #theme:focus,
@@ -129,17 +130,51 @@ legend {
 .pink{
 	background-color:#ff91e1;
 	border-color:#ff91e1;
+	border:#ff91e1;
+}
+.pink:hover{
+	background-color:#e96593;
+	border-color:#e96593;
 }
 .purple{
 	background-color:#a361c8;
 	border-color:#a361c8;	
+	border:#a361c8;
+}
+.purple:hover{
+	background-color:#7436da;
+	border-color:#7436da;
+	border:1px;
+}
+.pink2{
+	background-color:#ffa4cd;
+	border-color:#ffa4cd;
+}
+.pink2:hover{
+	background-color:#fd87bc;
+	border-color:#fd87bc;
+}
+.pink3{
+	background-color:#ffa4cd;
+	border-color:#ffa4cd;
+	border-radius:2px;
+	-moz-border-radius: 15px;     
+	-webkit-border-radius: 15px; 
+}
+.pink3:hover{
+	background-color:#fd87bc;
+	border-color:#fd87bc;
+	-moz-border-radius: 15px;     
+	-webkit-border-radius: 15px; 
 }
 /************************/
 #category_container div {
 	display:none;
+	color:#730dff;
 }
 #category_container div.active {
 	display:block;
+	color:#3f0096;
 }
 .filterlabel{
 	margin-right: 0.5em;
@@ -171,7 +206,7 @@ legend {
 	font-weight:bold;
 }
 span.badge{
-	background: #f33f9c;
+	background: #ff8ec8;
 }
 .gotop{
 	font-family: 'Glyphicons Halflings';
@@ -197,7 +232,6 @@ red{
 .ds-powered-by, .ds-dialog-footer{
 	display: none;
 }
-
 
 div.top{
 	float: left;
@@ -238,6 +272,6 @@ div#showmore {
 	text-align: center;
 	padding: 0.6em;
 	border-bottom: 1px solid #f3f0f6;
-	color: #a200ff;
+	color: #8800c7;
 	cursor: pointer;
 }
