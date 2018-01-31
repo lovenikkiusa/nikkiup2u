@@ -152,11 +152,11 @@ var tasksRaw = {
 //活动关卡，总在最前
 var extraRaw = {
 	//顺序：简可活纯凉
-'冰雪舞会1-舞会邀请函': [0.1, 0.2, 0.2, 0.1, -0.3],
-'冰雪舞会2-舞会开场': [1.4, 0.67, -1.4, 2.2, 0.63],
-'冰雪舞会3-女王的花园': [0.8, 1.5, -1.5, 2.33, 0.8],
-'冰雪舞会4-登上舞台': [-0.8, 0.67, 0.67, 0.8, 0.6],
-'冰雪舞会5-舞会的公主': [-0.8, -0.8, -0.67, -0.67, 0.67],
+//'冰雪舞会1-舞会邀请函': [0.1, 0.2, 0.2, 0.1, -0.3],
+//'冰雪舞会2-舞会开场': [1.4, 0.67, -1.4, 2.2, 0.63],
+//'冰雪舞会3-女王的花园': [0.8, 1.5, -1.5, 2.33, 0.8],
+//'冰雪舞会4-登上舞台': [-0.8, 0.67, 0.67, 0.8, 0.6],
+//'冰雪舞会5-舞会的公主': [-0.8, -0.8, -0.67, -0.67, 0.67],
 //'死神舞会1-神秘先知': [0.53, 1, 1, 0.53, 0.33],
 //'死神舞会2-舞会邀请': [-0.5, -0.25, 0.5, -0.75, 0.25],
 //'死神舞会3-横生枝节': [1.67, -1, 2.4, -1.67, 1],
@@ -633,10 +633,10 @@ function addBonusInfo(base, weight, tag) {
  *  - Special rules
  */
  var levelBonus = {
-'冰雪舞会1-舞会邀请函': [addBonusInfo('A', 4, "居家服"), addBonusInfo('A', 10, "睡衣")],
-'冰雪舞会2-舞会开场': [addBonusInfo('S', 0.25, "森女系列")],
-'冰雪舞会4-登上舞台': [addBonusInfo('S', 1, "童话系")],
-'冰雪舞会5-舞会的公主': [addBonusInfo('S', 1, "欧式古典")],
+//'冰雪舞会1-舞会邀请函': [addBonusInfo('A', 4, "居家服"), addBonusInfo('A', 10, "睡衣")],
+//'冰雪舞会2-舞会开场': [addBonusInfo('S', 0.25, "森女系列")],
+//'冰雪舞会4-登上舞台': [addBonusInfo('S', 1, "童话系")],
+//'冰雪舞会5-舞会的公主': [addBonusInfo('S', 1, "欧式古典")],
 //"繁星7-北望壁水貐": [addBonusInfo('A', 1, "Chinese Classical(中式古典)"), addBonusInfo('A', 1, "Modern China(中式现代)")],
 //"繁星5-青龙心月狐": [addBonusInfo('A', 1, "Swordsman(侠客联盟)")],
 //"繁星4-翼为羽翮": [addBonusInfo('A', 1, "Modern China(中式现代)"), addBonusInfo('A', 1, "Chinese Classical(中式古典)")],
@@ -661,9 +661,9 @@ function addBonusInfo(base, weight, tag) {
 //"七夕2-特别的七夕装扮": [addBonusInfo('S', 1, "Cheongsam(旗袍)")],
 //"七夕3-相思脉脉": [addBonusInfo('SS', 10, "Army(军装)"), addBonusInfo('SS', 10, "Winter(冬装)")],
 //"七夕4-甜美情人节": [addBonusInfo('A', 1, "Fairy(童话系)")],
-'繁星4-姻缘之宿': [addBonusInfo('A', 1, "Modern China(中式现代)"), addBonusInfo('A', 1, 'Chinese Classical(中式古典)')],
-'繁星5-神鸟为乌': [addBonusInfo('A', 1, "Swordsman(侠客联盟)")],
-'繁星7-诸星归位': [addBonusInfo('A', 1, "Modern China(中式现代)"), addBonusInfo('A', 1, 'Chinese Classical(中式古典)')],
+//'繁星4-姻缘之宿': [addBonusInfo('A', 1, "Modern China(中式现代)"), addBonusInfo('A', 1, 'Chinese Classical(中式古典)')],
+//'繁星5-神鸟为乌': [addBonusInfo('A', 1, "Swordsman(侠客联盟)")],
+//'繁星7-诸星归位': [addBonusInfo('A', 1, "Modern China(中式现代)"), addBonusInfo('A', 1, 'Chinese Classical(中式古典)')],
 //"1-海樱的委托": [addBonusInfo('C', 1, "Winter(冬装)")],
 //"2-恶魔的诊所": [addBonusInfo('S', 1, "Gothic(哥特风)")],
 //"3-桃桃的考验（一）": [addBonusInfo('B', 1, "Paramedics(医务使者)")],
