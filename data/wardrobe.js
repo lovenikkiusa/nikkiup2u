@@ -8345,10 +8345,71 @@ var wardrobe = [
   ['Hidden in Hanabi','发型','1704','5','A','','S','','A','','','SS','S','','和风','套装成就','Hidden in Hanabi·套','V3.7.2','氪'],
   ['To Happy Future','连衣裙','1485','5','SS','','S','','A','','','S','A','','和风','套装成就','Hidden in Hanabi·套','V3.7.2','氪'],
 
+  //V3.7.3
+  //Blood Beckon
+  ['Moon Song','发型','1827','5','S','','A','','SS','','SS','','A','','','充值·活动','Blood Beckon','V3.7.3','氪'],
+  ['Blood Flame','连衣裙','1613','5','SS','','A','','A','','SS','','A','','哥特风','充值·活动','Blood Beckon','V3.7.3','氪'],
+  ['Awakening Power','鞋子','1612','5','A','','A','','SS','','SS','','S','','','充值·活动','Blood Beckon','V3.7.3','氪'],
+  ['Deep Dream','饰品-特殊·前景','4943','5','','SS','S','','A','','SS','','A','','哥特风','充值·活动','Blood Beckon','V3.7.3','氪'],
+  ['Blood Crown','饰品-特殊·面饰','4944','5','S','','S','','SS','','A','','S','','哥特风','充值·活动','Blood Beckon','V3.7.3','氪'],
+  ['Cross Carving','饰品-手饰·双','4945','5','A','','SS','','SS','','A','','S','','','充值·活动','Blood Beckon','V3.7.3','氪'],
+  ['Tempting Brew','饰品-手持·左','4946','5','A','','SS','','SS','','A','','S','','','充值·活动','Blood Beckon','V3.7.3','氪'], 
+  ['Burning Gauze','饰品-头饰·发卡','4947','5','S','','SS','','SS','','A','','A','','','充值·活动','Blood Beckon','V3.7.3','氪'],
+  ['Broken Rose','饰品-特殊·翅膀','4948','5','SS','','A','','A','','SS','','S','','哥特风','充值·活动','Blood Beckon','V3.7.3','氪'],
+  ['Peak of Divine n Devil','妆容','298','5','A','','A','','SS','','SS','','A','','','充值·活动','Blood Beckon','V3.7.3','氪'],
+  ['Tear of Blood','发型','1828','5','A','','A','','SS','','SS','','A','','','成就领取','Blood Beckon·套','V3.7.3','氪'], 
+  ['Night Incinerate','连衣裙','1614','5','S','','A','','S','','SS','','A','','哥特风','成就领取','Blood Beckon·套','V3.7.3','氪'],
+  ['Age Curse','饰品-特殊·面饰','4949','5','A','','SS','','SS','','A','','A','','哥特风','成就领取','Blood Beckon·套','V3.7.3','氪'],
+  
+  //White Forest
+  ['Mysterious Land','发型','1480','5','A','','SS','','A','','','SS','A','','','充值·活动','White Forest','V3.7.3','氪'],
+  ['White Forest','连衣裙','1272','5','S','','A','','A','','SS','','S','','女神系','充值·活动','White Forest','V3.7.3','氪'],
+  ['Stars that can Melt Snow','袜子-袜套','607','5','A','','SS','','SS','','A','','A','','','充值·活动','White Forest','V3.7.3','氪'],
+  ['Walk at Dusk','鞋子','5','1320','S','','A','','SS','','S','','A','','','充值·活动','White Forest','V3.7.3','氪'],
+  ['Color of Sky','饰品-特殊·前景','3519','5','SS','','SS','','S','','','A','A','','','充值·活动','White Forest','V3.7.3','氪'],
+  ['Green Leaves and White Feathers','饰品-头饰·发饰','3520','5','A','','SS','','S','','','A','A','','','充值·活动','White Forest','V3.7.3','氪'],
+  ['Sound of Forest','饰品-特殊·面饰','3521','5','A','','SS','','SS','','','A','S','','','充值·活动','White Forest','V3.7.3','氪'],
+  ['White Star Light','饰品-颈饰·项链','3522','5','SS','','SS','','A','','','A','S','','','充值·活动','White Forest','V3.7.3','氪'],
+  
+  //Fate Trio
+  //Moon Justice
+  ['Night Judgement','发型','1826','5','','SS','A','','S','','S','','','A','中性风','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Lone Elite','外套','791','5','SS','','A','','SS','','A','','','A','哥特风','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Hunting Time','上装','724','5','A','','SS','','SS','','A','','','S','哥特风/中性风','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Void Chain','下装','666','5','A','','S','','SS','','S','','','A','特风/中性风','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Eternal Duty','鞋子','1611','5','A','','SS','','A','','SS','','','S','哥特风','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Raven Curse','饰品-特殊·前景','4931','5','A','','SS','','SS','','A','','','A','小动物','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Night Graveyard','饰品-特殊·地面','4932','5','S','','A','','S','','SS','','','S','哥特风','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Abyss Faith','饰品-头饰·发饰','4933','5','S','','SS','','SS','','S','','','A','哥特风','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Devil Cry','饰品-特殊·面饰','4934','5','A','','SS','','A','','SS','','','A','哥特风/中性风','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Trial of Edge','饰品-手持·右','4935','5','A','','SS','','A','','SS','','','S','','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Soul Axe','饰品-手持·左','4936','5','S','','SS','','S','','S','','','A','','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Ruthless Chase','饰品-手饰·双','4937','5','A','','A','','SS','','SS','','','A','哥特风','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Withered Prayer','饰品-特殊·顶饰','4939','5','SS','','A','','S','','S','','','A','哥特风','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Chaotic Moon','饰品-特殊·后景','4940','5','A','','SS','','SS','','S','','','A','哥特风','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Unruly Soul','妆容','297','5','A','','A','','SS','','SS','','','A','','活动·Fate Trio','Moon Justice','V3.7.3','活动'],
+  ['Bloody Way Out','连衣裙','1612','5','A','','S','','SS','','SS','','','A','哥特风/中性风','成就领取','Moon Justice·套','V3.7.3','活动'],
+  ['Phantom Storm','饰品-特殊·翅膀','4938','5','A','','A','','SS','','SS','','','S','','成就领取','Moon Justice·套','V3.7.3','活动'],
+  
+  //Red Nightmare
+  ['Blood Night','发型','1823','5','A','','SS','','S','','','SS','A','','','活动·Fate Trio','Red Nightmare','V3.7.3','活动'],
+  ['Soul Wail','连衣裙','1609','5','A','','S','','SS','','','A','A','','欧式古典','活动·Fate Trio','Red Nightmare','V3.7.3','活动'],
+  ['Formless Yoke','袜子-袜套','767','5','','S','A','','A','','S','','A','','','活动·Fate Trio','Red Nightmare','V3.7.3','活动'],
+  ['Corrupted Feast','饰品-特殊·前景','4917','5','S','','SS','','SS','','A','','','A','欧式古典','活动·Fate Trio','Red Nightmare','V3.7.3','活动'],
+  ['Vanished Flower','饰品-头饰·发饰','4918','5','SS','','SS','','A','','','A','A','','欧式古典','活动·Fate Trio','Red Nightmare','V3.7.3','活动'],
+  ['Desire Abyss','饰品-颈饰·项链','4919','5','A','','SS','','SS','','','A','S','','','活动·Fate Trio','Red Nightmare','V3.7.3','活动'],
+  ['Requiem of Freedom','饰品-手饰·双','4920','5','','SS','SS','','S','','','A','S','','','活动·Fate Trio','Red Nightmare','V3.7.3','活动'],
+  ['Death of Rose','饰品-手持·左','4921','5','S','','S','','S','','','SS','A','','','活动·Fate Trio','Red Nightmare','V3.7.3','活动'],
+  ['Kiss of Curse','饰品-特殊·纹身','4922','5','','A','A','','A','','SS','','A','','','活动·Fate Trio','Red Nightmare','V3.7.3','活动'],
+  ['Long Dream Wake','饰品-特殊·后景','4923','5','A','','SS','','SS','','A','','S','','欧式古典','活动·Fate Trio','Red Nightmare','V3.7.3','活动'], 
+  ['Blood Cage','饰品-特殊·地面','4924','5','SS','','SS','','S','','A','','A','','欧式古典','活动·Fate Trio','Red Nightmare','V3.7.3','活动'],
+  ['True Lie','饰品-特殊·顶饰','4925','5','A','','SS','','SS','','S','','A','','欧式古典','活动·Fate Trio','Red Nightmare','V3.7.3','活动'],
+  ['Mortal Nightmare','妆容','196','5','A','','S','','A','','','SS','S','','','成就领取','Red Nightmare·套','V3.7.3','活动'],
+  ['Dusty Snow','发型','1824','5','A','','SS','','A','','','SS','A','','','成就领取','Red Nightmare·套','V3.7.3','活动'],
+  ['Red Nightmare','连衣裙','1610','5','S','','S','','A','','','SS','A','','','成就领取','Red Nightmare·套','V3.7.3','活动'],
+
 
   
-
-
   
  ];
 
