@@ -8998,7 +8998,51 @@ var wardrobe = [
   ['Black White Classic','连衣裙','1663','5','A','','A','','SS','','SS','','','S','','活动·芭比','套装','V3.9.3','芭比'],
   ['Summer Island Wind','饰品-手持·左','5129','5','','SS','A','','SS','','S','','','A','','活动·芭比','套装','V3.9.3','芭比'],
   
+  //V3.9.3  
+  //Romantic Moment
+  ['Light Blonde','发型','1873','A','','SS','','SS','','S','','','A','','活动·Barbie','Romantic Moment','V3.9.3','活动'],
+  ['Azure Dream','连衣裙','1664','5','A','','SS','','A','','S','','','A','','活动·Barbie','Romantic Moment','V3.9.3','活动'],
+  ['Bright Encounter','外套','808','5','SS','','S','','A','','SS','','','B','','活动·Barbie','Romantic Moment','V3.9.3','活动'],
+  ['Cyrstal of Change','袜子-袜子','790','5','S','','SS','','A','','SS','','','A','','活动·Barbie','Romantic Moment','V3.9.3','活动'],
+  ['Gem of Origin','鞋子','1647','5','A','','SS','','S','','S','','','A','','活动·Barbie, Your Way','Romantic Moment','V3.9.3','活动'],
+  ['Facets of a Jewel','饰品-耳饰','5130','5','SS','','SS','','S','','A','','','A','','活动·Barbie','Romantic Moment','V3.9.3','活动'],
+  ['Fresh Wind','饰品-颈饰·项链','5131','5','SS','','SS','lively','A','','A','','','A','','活动·Barbie','Romantic Moment','V3.9.3','活动'],
+  ['First Model','饰品-手饰·双','5132','5','A','','SS','','SS','','A','','','A','','活动·Barbie','Romantic Moment','V3.9.3','活动'],
+  ['Instinctive Insight','饰品-特殊·顶饰','5134','5','A','','SS','','SS','','S','','','A','','活动·Barbie','Romantic Moment','V3.9.3','活动'],
+  ['Colorful Palace','饰品-特殊·后景','5135','5','SS','','SS','','S','','S','','','A','','活动·Barbie','Romantic Moment','V3.9.3','活动'],
+  ['Barbie’s Style','妆容','315','5','A','','S','','SS','','SS','','','A','','活动·Barbie','Romantic Moment','V3.9.3','活动'],
+  ['Romantic Moment','连衣裙','1665','5','A','','SS','','S','','SS','','','A','','活动·Barbie','Romantic Moment','V3.9.3','活动'],
+  ['Fate Diamond','饰品-耳饰','5133','5','SS','','S','','S','','S','','','S','','活动·Barbie','Romantic Moment','V3.9.3','活动'],
 
+  //Space Fantasy
+  ['Fantastic Future','发型','1874','5','','SS','','A','S','','A','','','A','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['Unique Thinking','上装','731','5','A','','','SS','A','','SS','','','A','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['Imaging Space','下装','673','5','A','','','A','SS','','SS','','','A','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['Unstoppable','鞋子','1648','5','','SS','','SS','A','','A','','','S','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['Zero Gravity','饰品-头饰·发饰','5136','5','','SS','','SS','A','','S','','','A','tag','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['Dreams of the Heart','饰品-手饰·左','5137','5','A','','','SS','A','','SS','','','S','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['Cosmic Explorer','饰品-特殊·翅膀','5138','5','S','','','SS','S','','SS','','','A','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['Partner in Space','饰品-特殊·前景','5139','5','A','','','SS','','SS','S','','','S','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['Destined for Space','饰品-特殊·地面','5140','5','A','','','SS','','A','SS','','','S','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['First Step','饰品-特殊·顶饰','5141','5','S','','','SS','','SS','A','','','A','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['Star Fantasy','饰品-特殊·后景','5142','5','A','','','SS','','A','SS','','','S','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['Light of Cosmos','饰品-特殊·皮肤','5143','5','','SS','','S','','A','A','','A','','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['Dream Chaser','妆容','316','5','A','','','SS','A','','SS','','','A','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+  ['Interstellar Route','连衣裙','1666','5','A','','','SS','S','','S','','','A','','活动·Barbie','Space Fantasy','V3.9.3','活动'],
+
+  //Silk Aroma
+  ['Wedding Dream','发型','1709','5','A','','SS','','SS','','','A','A','','','活动·充值','Silk Aroma','V3.9.3','氪'],
+  ['Beautiful Companion','连衣裙','1489','5','SS','','A','','A','','','S','A','','','活动·充值','Silk Aroma','V3.9.3','氪'],
+  ['Dandelion Age','外套','732','5','SS','','SS','','S','','','S','A','','','活动·充值','Silk Aroma','V3.9.3','氪'],
+  ['Heavy Step','鞋子','1513','5','A','simple','SS','','SS','','','A','A','','','活动·充值','Silk Aroma','V3.9.3','氪'],
+  ['Dandelion’s Will','饰品-头饰·头纱','4404','5','A','','S','','A','','','SS','S','','','活动·充值','Silk Aroma','V3.9.3','氪'],
+  ['Dance of Victory','饰品-头饰·发饰','4405','5','SS','','SS','','A','','','A','A','','','活动·充值','Silk Aroma','V3.9.3','氪'],
+  ['Happy Farewell','饰品-头饰·发卡','4406','5','SS','','SS','','A','','','A','S','','','活动·充值','Silk Aroma','V3.9.3','氪'],
+  ['Silent Tears','饰品-耳饰','4407','5','A','','SS','','SS','','','A','S','','','活动·充值','Silk Aroma','V3.9.3','氪'],
+  ['Dandelion’s Song','饰品-手饰·双','4408','5','A','','SS','','A','','','SS','A','','','活动·充值','Silk Aroma','V3.9.3','氪'],
+  ['Beautiful Soul','妆容','264','5','A','','SS','','A','','','SS','A','','','活动·充值','Silk Aroma','V3.9.3','氪'],
+  ['Dandelion’s Decision','外套','733','5','S','','SS','','S','','','A','A','','','活动·充值','Silk Aroma','V3.9.3','氪'],
+  ['Trace of Memory','饰品-头饰·头纱','4409','5','SS','','SS','','A','','','S','A','','','活动·充值','Silk Aroma','V3.9.3','氪'],
   
 
  ];
