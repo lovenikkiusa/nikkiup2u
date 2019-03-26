@@ -9214,7 +9214,7 @@ var wardrobe = [
   ['Flower and Moon Glory(花影月明)','鞋子','1006','5','A','','SS','','A','','','SS','A','','中式古典','充值·春节福袋','Flower Under Moonlight(花夕辞)','V3.10.1','福袋'],
   ['Flower and Beauty(花颜月貌)','饰品-特殊·地面','2117','5','SS','','S','','','A','','A','A','','中式古典','充值·春节福袋','Flower Under Moonlight(花夕辞)','V3.10.1','福袋'],
   ['Moonlit Flower Tale(花语月梦)','饰品-头饰·发饰','2118','5','S','','SS','','','A','','SS','A','','','充值·春节福袋','Flower Under Moonlight(花夕辞)','V3.10.1','福袋'],
-  ['Flowe and Moon Glory(花映月华)','饰品-手持·右','2119','5','S','','SS','','','A','','SS','A','','','套装·花夕辞','Flower Under Moonlight(花夕辞·套)','V3.10.1','福袋'],
+  ['Flower and Moon Glory(花映月华)','饰品-手持·右','2119','5','S','','SS','','','A','','SS','A','','','套装·花夕辞','Flower Under Moonlight(花夕辞·套)','V3.10.1','福袋'],
   //Crame Zitherist月鹤吟
   ['Grane Friend(待鹤知音)','发型','1848','5','S','','S','','SS','','SS','','','B','','充值·春节福袋','Crame Zitherist(月鹤吟)','V3.10.1','福袋'],
   ['Rain and Frost(瑞羽凌寒)','连衣裙','1636','5','SS','','A','','SS','','A','','','A','中式古典','充值·春节福袋','Crame Zitherist(月鹤吟)','V3.10.1','福袋'],
