@@ -9589,7 +9589,7 @@ var wardrobe = [
   ['Light of Dream','饰品-手饰·双','5259','5','S','','SS','','S','','S','','','A','','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
   ['Ethereal Music','饰品-头饰·发饰','5260','5','SS','','A','','A','','SS','','','S','童话系','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
   ['Radiant Psalm','妆容','321','5','A','','SS','','A','','SS','','','A','','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
-  ['Spring Banquet','饰品-特殊·地面','5255,'5','SS','','SS','','A','','S','','','A','童话系','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],  
+  ['Spring Banquet','饰品-特殊·地面','5255','5','SS','','SS','','A','','S','','','A','童话系','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],  
   ['Shimmer Vow','连衣裙','1694','5','SS','','S','','A','','S','','','A','童话系','套装·Spring Wonderland','Spring Wonderland','V3.11.0','成就'],
 
   //0.99刀购
