@@ -9565,7 +9565,77 @@ var wardrobe = [
   ['Dangling Ear Bag(垂耳包)','饰品-手持·右','3692','5','A','','','SS','','S','','A','','A','小动物','店·金币','Innocent Grey Bunny(天真灰兔)','V3.11.0','金'],
   ['Big Carrot(大胡萝卜)','饰品-颈饰·项链','3693','5','','SS','','SS','','S','','A','','S','','店·金币','Innocent Grey Bunny(天真灰兔)','V3.11.0','金'],
   
+  //复活节
+  //Colorful Gift
+  ['Naught Thought','发型','1906','5','A','','','A','','S','','SS','','A','','活动·Star Spirit','Colorful Gift','V3.11.0','复活节'],
+  ['Spring Song','连衣裙','1692','5','A','','S','','','SS','','S','','A','童话系','活动·Star Spirit','Colorful Gift','V3.11.0','复活节'],
+  ['First Violet','外套','828','5','A','','','SS','','A','','S','','S','童话系','活动·Star Spirit','Colorful Gift','V3.11.0','复活节'],
+  ['Firefly Light','袜子-袜子','804','5','A','','S','','','A','','SS','','A','','活动·Star Spirit','Colorful Gift','V3.11.0','复活节'],
+  ['Violet Magic','鞋子','1677','5','A','','','SS','','A','','SS','','S','','活动·Star Spirit','Colorful Gift','V3.11.0','复活节'],
+  ['Childish Vision','饰品-头饰·发饰','5251','5','S','','','SS','','SS','','A','','S','小动物/童话系','活动·Star Spirit','Colorful Gift','V3.11.0','复活节'],
+  ['Dreamy Light','饰品-颈饰·围巾','5252','5','A','','','SS','','SS','','A','','S','','活动·Star Spirit','Colorful Gift','V3.11.0','复活节'],
+  ['Brilliant Cluster','饰品-手持·右','5253','5','A','','','A','','SS','','SS','','A','小动物/童话系','活动·Star Spirit','Colorful Gift','V3.11.0','复活节'],
+  ['Starlight Whisper','饰品-颈饰·项链','5254','5','','SS','','A','','SS','','A','','S','','活动·Star Spirit','Colorful Gift','V3.11.0','复活节'],
+  ['Innocent Pupil','妆容','320','5','S','','','S','','A','','SS','','S','童话系','活动·Star Spirit','Colorful Gift','V3.11.0','复活节'],
+  ['Magic Gift','外套','829','5','A','','','SS','','SS','A','','','S','童话系','活动·Star Spirit','Colorful Gift','V3.11.0','复活节'],
+  //Spring Wonderland
+  ['Brilliant Moon','发型','1907','5','A','','SS','','A','','SS','','','S','','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
+  ['Flower and Dream','连衣裙','1693','5','SS','','A','','A','','SS','','','A','童话系','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
+  ['Spring Flower','袜子-袜子','805','5','A','','SS','','SS','','A','','','A','','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
+  ['Catkin Chat','鞋子','1678','5','A','','A','','SS','','SS','','','A','','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
+  ['In the Wind','饰品-特殊·面饰','5256','5','A','','SS','','A','','SS','','','A','童话系','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
+  ['Soft Poem','饰品-耳饰','5257','5','A','','A','','SS','','SS','','','A','','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
+  ['Magic Promise','饰品-颈饰·项链','5258','5','SS','','S','','A','','A','','','S','','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
+  ['Light of Dream','饰品-手饰·双','5259','5','S','','SS','','S','','S','','','A','','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
+  ['Ethereal Music','饰品-头饰·发饰','5260','5','SS','','A','','A','','SS','','','S','童话系','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
+  ['Radiant Psalm','妆容','321','5','A','','SS','','A','','SS','','','A','','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],
+  ['Spring Banquet','饰品-特殊·地面','5255,'5','SS','','SS','','A','','S','','','A','童话系','活动·Star Spirit','Spring Wonderland','V3.11.0','复活节'],  
+  ['Shimmer Vow','连衣裙','1694','5','SS','','S','','A','','S','','','A','童话系','套装·Spring Wonderland','Spring Wonderland','V3.11.0','成就'],
 
+  //0.99刀购
+  ['Leisure Coala(悠闲考拉)','饰品-手持·右','4248','4','A','','','SS','','A','','SS','B','','','充值·活动','','V3.11.0','氪'],
+  //Lollipop Sweetheart波板糖甜心
+  ['Cute Set Out(俏皮出击)','发型','1576','5','A','','','A','','SS','','SS','','B','','活动·礼品券','Lollipop Sweetheart(波板糖甜心)','V3.11.0','礼券'],
+  ['Shining Stripes(闪耀条纹)','连衣裙','1368','5','A','','','S','','A','','S','','A','','活动·礼品券','Lollipop Sweetheart(波板糖甜心)','V3.11.0','礼券'],
+  ['Sunny Day Smile(微笑晴天)','外套','673','5','','SS','','SS','','A','','A','','A','','活动·礼品券','Lollipop Sweetheart(波板糖甜心)','V3.11.0','礼券'],
+  ['Cat and Dimond(喵咪菱格)','袜子-袜子','644','5','A','','','S','','SS','','A','','A','','活动·礼品券','Lollipop Sweetheart(波板糖甜心)','V3.11.0','礼券'],
+  ['Flowing Tempo(随心节拍)','鞋子','1400','5','A','','','SS','','B','','S','','A','','活动·礼品券','Lollipop Sweetheart(波板糖甜心)','V3.11.0','礼券'],
+  ['Colorful Fantasy(璀璨幻想)','饰品-头饰·发饰','3855','5','B','','','S','','S','','A','','S','','活动·礼品券','Lollipop Sweetheart(波板糖甜心)','V3.11.0','礼券'],
+  ['Sweet Secret(甜美心语)','饰品-手持·右','3856','5','','S','','A','','S','','S','','A','','活动·礼品券','Lollipop Sweetheart(波板糖甜心)','V3.11.0','礼券'],
+  ['Rose Wish(玫瑰星愿)','饰品-颈饰·项链','3857','5','A','','','S','','S','','A','','A','','活动·礼品券','Lollipop Sweetheart(波板糖甜心)','V3.11.0','礼券'],
+  ['Strange Weave(奇妙编织)','饰品-手饰·右','3858','5','B','','','A','','S','','SS','','S','','活动·礼品券','Lollipop Sweetheart(波板糖甜心)','V3.11.0','礼券'],
+  ['honey Lollipop(甜心波板糖)','饰品-手持·左','3859','5','A','','','A','','SS','','S','','B','','活动·礼品券','Lollipop Sweetheart(波板糖甜心)','V3.11.0','礼券'],
+  //Stars in Wish Bottle
+  ['Ocean Slumber','发型','1876','5','A','','SS','','SS','','','A','A','','','充值·活动','Stars in Wish Bottle','V3.11.0','氪'],
+  ['Shooting Star Dream','连衣裙','1671','5','S','','SS','','A','','','S','S','','洛丽塔','充值·活动','Stars in Wish Bottle','V3.11.0','氪'],
+  ['Sand and Foam','袜子-袜子','791','5','A','','S','','A','','','SS','A','','','充值·活动','Stars in Wish Bottle','V3.11.0','氪'],
+  ['Wave Drift','鞋子','1650','5','S','','SS','','SS','','','A','A','','','充值·活动','Stars in Wish Bottle','V3.11.0','氪'],
+  ['Drop of Light','饰品-头饰·发卡','5149','5','A','','SS','','A','','','SS','S','','','充值·活动','Stars in Wish Bottle','V3.11.0','氪'],
+  ['Chilling Water','饰品-耳饰','5150','5','A','','SS','','A','','','SS','A','','','充值·活动','Stars in Wish Bottle','V3.11.0','氪'],
+  ['Breeze of Tides','饰品-颈饰·项链','5151','5','A','','S','','SS','','','S','A','','','充值·活动','Stars in Wish Bottle','V3.11.0','氪'],
+  ['Daytime Route','饰品-手饰·双','5152','5','A','','SS','','S','','','SS','A','','','充值·活动','Stars in Wish Bottle','V3.11.0','氪'],
+  ['Traveling Wings','饰品-特殊·尾巴','5153','5','SS','','A','','S','','','S','S','','洛丽塔','充值·活动','Stars in Wish Bottle','V3.11.0','氪'],
+  ['Pure Pursuit','妆容','317','5','A','','S','','A','','','SS','S','','','充值·活动','Stars in Wish Bottle','V3.11.0','氪'],
+  ['Azure Track','发型','1877','5','A','','S','','SS','','','A','S','','','套装·Stars in Wish Bottle','Stars in Wish Bottle','V3.11.0','成就'],
+  ['String of Sea','连衣裙','1668','5','A','','SS','','A','','','SS','A','','洛丽塔','套装·Stars in Wish Bottle','Stars in Wish Bottle','V3.11.0','成就'],
+  ['Star Wish Bottle','饰品-特殊·前景','5148','5','S','','S','','','S','','SS','A','','','套装·Stars in Wish Bottle','Stars in Wish Bottle','V3.11.0','成就'],
+  ['Star Ocean','饰品-头饰·发卡','5154','5','S','','SS','','S','','','SS','A','','','套装·Stars in Wish Bottle','Stars in Wish Bottle','V3.11.0','成就'],
+  ['Star Sea Travel','饰品-耳饰','5155','5','A','','S','','SS','','','A','A','','','套装·Stars in Wish Bottle','Stars in Wish Bottle','V3.11.0','成就'],
+  
+  //织梦人
+  ['Beginning of a Long Night(长夜伊始)','萤光之灵','089','2','','S','B','','S','','B','','B','','性感+500','梦境·浮梦岛','','V3.11.0','路易'],
+  ['Starry Night Glasses(星夜护镜)','萤光之灵','090','3','','B','A','','S','','A','','A','','性感+800','梦境·路易1-3','','V3.11.0','路易'],
+  ['Windy Night Helment(风夜头盔)','萤光之灵','091','4','A','','SS','','A','','S','','B','','性感+1200','梦境·路易1-7','','V3.11.0','路易'],
+  ['Dark Night Motor(暗夜摩托)','萤光之灵','092','5','SS','','A','','A','','SS','','A','','性感+1500','梦境·路易1-11','','V3.11.0','路易'],
+  //织梦人散件
+  ['Break of Dawn(破晓时刻)','发型','1156','4','A','','A','','S','','SS','','','A','','梦境·路易1-1','','V3.11.0','织梦'],
+  ['Officer Uniform(军官制服)','连衣裙','972','4','A','','A','','S','','SS','','','A','军装','梦境·路易1-15','','V3.11.0','织梦'],
+  ['Tactical Wind Coat(战术风衣)','外套','471','4','A','','S','','SS','','A','','','A','军装','梦境·路易1-5','','V3.11.0','织梦'],
+  ['Black Stockings(黑色长袜)','袜子-袜子','448','4','A','','SS','','A','','SS','','A','','','梦境·路易1-6','','V3.11.0','织梦'],
+  ['Night of the North Kingdom(北国之夜)','鞋子','1031','4','A','','A','','S','','S','','','A','军装','梦境·路易1-6','','V3.11.0','织梦'],
+  ['Secret Agent Cap(特工军帽)','饰品-头饰·发饰','2226','4','A','','S','','S','','A','','','A','军装','梦境·路易1-8','','V3.11.0','织梦'],
+  ['Revolver(左轮手枪)','饰品-手持·左','2227','3','A','','A','','S','','S','','','B','','梦境·路易1-12','','V3.11.0','织梦'],
+  
   
  ];
 
