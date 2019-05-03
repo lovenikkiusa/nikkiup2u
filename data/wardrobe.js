@@ -5547,7 +5547,8 @@ var wardrobe = [
   ['I1 Lipstick','饰品-手持·右','4106','5','B','','A',' ','S','','S',' ','A','','','充值·活动','Celebrity\'s Choice','V2.5.0','氪'],
   ['Magic Mirror','饰品-手持·左','4107','5','A','','SS','','S','','B','','A','','','充值·活动','Celebrity\'s Choice','V2.5.0','氪'],
   ['Purse of Kiss','饰品-特殊·胸饰','4108','5','A','','SS','','A','','S','','B','','','充值·活动','Celebrity\'s Choice','V2.5.0','氪'],
-  ['I DO','外套','704','5','SSS','','SSS','','SSS','','SS','','SS','','大小姐','成就','Celebrity\'s Choice','V2.5.0','氪'],
+  ['I DO','外套','704','5','A','','SS','','SS','','A','','','A','大小姐','成就','Celebrity\'s Choice','V2.5.0','氪'],
+
   //V2.5.0
   //Dark Poem
   ['Doomed Doll','发型','1631','5','S','','B','','S','','SS','','','S','','活动·Night Castle','Dark Poem','V2.5.1','Night Castle'],
@@ -7412,7 +7413,7 @@ var wardrobe = [
   ['Ending Prelude(终结序曲)','外套','559','5','SS','','A','','SS','','A','','','A','未来系','套装·止战之羽','Warfare Terminator(止战之羽·套)','V3.5.1','凝砂'],
  
   //Backlight Chord
-  ['Rubbit','发型','1786','5','SS','简单','优雅','S','成熟','S','A','清纯','清凉','A','Tag','充值·活动','Backlight Chord','V3.5.1','氪'],
+  ['Rubbit','发型','1786','5','SS','','','S','','S','A','','','A','','充值·活动','Backlight Chord','V3.5.1','氪'],
   ['Incomplete Dream','连衣裙','1560','5','A','','','A','SS','','SS','','','A','Tag','充值·活动','Backlight Chord','V3.5.1','氪'],
   ['Dome Barrier','外套','774','5','A','','','','SS','','S','','','A','','充值·活动','Backlight Chord','V3.5.1','氪'],
   ['Mind Ring','袜子-袜套','745','5','A','','','A','','','SS','','','A','','充值·活动','Backlight Chord','V3.5.1','氪'],
@@ -7467,29 +7468,29 @@ var wardrobe = [
   
   //芭比套
   //Showcase of Dream缀光之梦
-  ['New Chapter','发型','1793','5','A','简单','优雅','SS','成熟','S','性感','S','S','保暖','Tag','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
-  ['Light of Freedom','连衣裙','1569','5','B','简单','SS','活泼','成熟','A','性感','SS','S','保暖','洛丽塔','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
-  ['Crystal Stair','鞋子','1585','5','SS','简单','优雅','A','成熟','B','性感','SS','S','保暖','Tag','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
-  ['Miracle Fairy','饰品-特殊·前景','4779','5','SS','简单','SS','活泼','成熟','A','性感','S','S','保暖','洛丽塔','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
-  ['Brilliant Crown','饰品-头饰·发饰','4780','5','S','简单','优雅','A','成熟','S','性感','A','A','保暖','洛丽塔','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
-  ['Out of Showcase','饰品-手饰·双','4781','5','A','简单','优雅','S','成熟','SS','性感','SS','S','保暖','Tag','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
-  ['Budding Flower','饰品-颈饰·项链','4782','5','A','简单','优雅','SS','成熟','SS','性感','S','A','保暖','Tag','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
-  ['Pink Wings','饰品-特殊·尾巴','4783','5','SS','简单','优雅','A','成熟','SS','性感','A','S','保暖','洛丽塔','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
-  ['Showcase of Dream','连衣裙','1570','5','SS','简单','优雅','SS','成熟','A','性感','S','A','保暖','洛丽塔','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','成就·Showcase'],    
+  ['New Chapter','发型','1793','5','A','','','SS','','S','','S','S','','','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
+  ['Light of Freedom','连衣裙','1569','5','B','','SS','','','A','','SS','S','','洛丽塔','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
+  ['Crystal Stair','鞋子','1585','5','SS','','','A','','B','','SS','S','','','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
+  ['Miracle Fairy','饰品-特殊·前景','4779','5','SS','','SS','','','A','','S','S','','洛丽塔','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
+  ['Brilliant Crown','饰品-头饰·发饰','4780','5','S','','','A','','S','','A','A','','洛丽塔','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
+  ['Out of Showcase','饰品-手饰·双','4781','5','A','','','S','','SS','','SS','S','','','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
+  ['Budding Flower','饰品-颈饰·项链','4782','5','A','','','SS','','SS','','S','A','','','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
+  ['Pink Wings','饰品-特殊·尾巴','4783','5','SS','','','A','','SS','','A','S','','洛丽塔','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','Showcase'],
+  ['Showcase of Dream','连衣裙','1570','5','SS','','','SS','','A','','S','A','','洛丽塔','抽·Showcase','Showcase of Dream(缀光之梦)','V3.5.2','成就·Showcase'],    
   //Boxed Dream旖旎幻梦
-  ['Golden Prelude','发型','1792','5','S','简单','SS','活泼','SS','可爱','S','清纯','B','保暖','女神系','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
-  ['Rose Roam','连衣裙','1567','5','SS','简单','A','活泼','A','可爱','SS','清纯','A','保暖','女神系','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
-  ['Clouded Star','袜子-袜套','748','5','A','简单','SS','活泼','A','可爱','性感','SS','A','保暖','Tag','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
-  ['Neon Road','鞋子','1584','5','A','简单','SS','活泼','成熟','SS','性感','A','A','保暖','Tag','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
-  ['Dream Hut','饰品-特殊·地面','4772','5','华丽','简单','优雅','活泼','成熟','可爱','性感','清纯','清凉','保暖','Tag','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
-  ['Miss Cotton Candy','饰品-特殊·后景','4773','5','SS','简单','SS','活泼','A','可爱','性感','A','S','保暖','小动物','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
-  ['Shiney Love','饰品-耳饰','4774','5','A','简单','SS','活泼','成熟','SS','性感','S','S','保暖','Tag','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
-  ['Peach Heart Dream','饰品-颈饰·项链','4775','5','A','简单','SS','活泼','成熟','S','性感','SS','A','保暖','Tag','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
-  ['Shooting Star Miracle','饰品-手饰·右','4776','5','S','简单','SS','活泼','SS','可爱','A','SS','S','保暖','Tag','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
-  ['Colorful Candy','饰品-特殊·胸饰','4777','5','B','简单','SS','活泼','A','可爱','性感','SS','S','保暖','Tag','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
-  ['Chrysanthemum Fragrance','饰品-手饰·左','4778','5','A','简单','SS','活泼','SS','可爱','性感','A','A','保暖','Tag','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
-  ['Rose Star','妆容','287','5','A','简单','SS','活泼','SS','可爱','性感','A','S','保暖','Tag','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
-  ['Boxed Dream','连衣裙','1568','5','A','简单','SS','活泼','A','可爱','SS','清纯','A','保暖','女神系','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Golden Prelude','发型','1792','5','S','','SS','','SS','','S','','B','','女神系','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Rose Roam','连衣裙','1567','5','SS','','A','','A','','SS','','A','','女神系','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Clouded Star','袜子-袜套','748','5','A','','SS','','A','','','SS','A','','','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Neon Road','鞋子','1584','5','A','','SS','','','SS','','A','A','','','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Dream Hut','饰品-特殊·地面','4772','5','','','','','','','','','','','','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Miss Cotton Candy','饰品-特殊·后景','4773','5','SS','','SS','','A','','','A','S','','小动物','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Shiney Love','饰品-耳饰','4774','5','A','','SS','','','SS','','S','S','','','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Peach Heart Dream','饰品-颈饰·项链','4775','5','A','','SS','','','S','','SS','A','','','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Shooting Star Miracle','饰品-手饰·右','4776','5','S','','SS','','SS','','A','SS','S','','','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Colorful Candy','饰品-特殊·胸饰','4777','5','B','','SS','','A','','','SS','S','','','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Chrysanthemum Fragrance','饰品-手饰·左','4778','5','A','','SS','','SS','','','A','A','','','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Rose Star','妆容','287','5','A','','SS','','SS','','','A','S','','','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
+  ['Boxed Dream','连衣裙','1568','5','A','','SS','','A','','SS','','A','','女神系','抽·Showcase','Boxed Dream(旖旎幻梦)','V3.5.2','Showcase'],
   
   //Elegant Tune清妍曲
   ['Elegance(清妍)','发型','1382','3','','S','B','','','S','','A','B','','','成就','Elegant Tune(清妍曲)','V3.5.2','成就'],
