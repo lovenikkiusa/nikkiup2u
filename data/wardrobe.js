@@ -8810,7 +8810,7 @@ var wardrobe = [
   ['Cicada and Snow','妆容','313','5','A','','SS','','','S','','SS','','A','森女系列','充值·活动','Where Wind Dwells','V3.9.0','氪'],
   ['Wind\'s Words','连衣裙','1657','5','SS','','SS','','','A','','A','','A','森女系列','充值·活动','Where Wind Dwells','V3.9.0','氪'],  
   //Rose Palace
-  ['Figure in Mist','发型','1869','5','A','','A','','SS','','SS','','','S','Tag','抽·Treasure','Rose Palace','V3.9.0','Treasure'],
+  ['Figure in Mist','发型','1869','5','A','','A','','SS','','SS','','','S','','抽·Treasure','Rose Palace','V3.9.0','Treasure'],
   ['Soft Heartbeat','外套','805','5','SS','','S','','A','','SS','','','A','欧式古典','抽·Treasure','Rose Palace','V3.9.0','Treasure'],
   ['Jingling Jade','上装','729','5','B','','S','','SS','','SS','','','A','Tag','抽·Treasure','Rose Palace','V3.9.0','Treasure'],
   ['Dreamy Reality','下装','671','5','A','','SS','','A','','SS','','','S','Tag','抽·Treasure','Rose Palace','V3.9.0','Treasure'],
@@ -8982,7 +8982,7 @@ var wardrobe = [
   
   //芭比活动
   //Romantic Moment
-  ['Light Blonde','发型','1873','A','','SS','','SS','','S','','','A','','活动·Barbie','Romantic Moment','V3.9.3','芭比'],
+  ['Light Blonde','发型','1873','A','','SS','','SS','','S','','','A','','','活动·Barbie','Romantic Moment','V3.9.3','芭比'],
   ['Azure Dream','连衣裙','1664','5','A','','SS','','A','','S','','','A','','活动·Barbie','Romantic Moment','V3.9.3','芭比'],
   ['Bright Encounter','外套','808','5','SS','','S','','A','','SS','','','B','','活动·Barbie','Romantic Moment','V3.9.3','芭比'],
   ['Cyrstal of Change','袜子-袜子','790','5','S','','SS','','A','','SS','','','A','','活动·Barbie','Romantic Moment','V3.9.3','芭比'],
