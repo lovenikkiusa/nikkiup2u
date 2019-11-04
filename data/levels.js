@@ -197,10 +197,10 @@ var tasksRaw = {
 var extraRaw = {
 //顺序：简可活纯凉
 //Starry Dance星河之舞
-'1-Sky After Rain': [1.47, 2.87, 2.67, 1.67, 0.67],
-'2-Sweet Dream': [1.47, 2.87, 2.67, 1.67, 0.67],
-'3-Dream Comes True': [3, 1.33, -1.47, 3.07, 1.33],
-'4-Starry Dance': [-2.8, -2.67, -1.2, -1.33, -0.8],
+//'1-Sky After Rain': [1.47, 2.87, 2.67, 1.67, 0.67],
+//'2-Sweet Dream': [1.47, 2.87, 2.67, 1.67, 0.67],
+//'3-Dream Comes True': [3, 1.33, -1.47, 3.07, 1.33],
+//'4-Starry Dance': [-2.8, -2.67, -1.2, -1.33, -0.8],
 //Rose Castle
 //'1-Midnight Rose Bloom': [-2.8, 1.8, -2.8, 3.1, 0.7],
 //'2-Sunny Garden Illusion': [2.9, 1.7, 3.1, 1.5, -0.6],
