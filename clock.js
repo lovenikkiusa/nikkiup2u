@@ -21,7 +21,6 @@ function initTime(){
 	var m = 60 - date.getMinutes() - 1;
 	var s = 60 - date.getSeconds();
 	
-	console.log(h+" "+m+" "+s);
 	
 	return h * 3600 + m * 60 + s;	
 };
